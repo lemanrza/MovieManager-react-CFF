@@ -34,7 +34,7 @@ const initialMovies = [
     imdbID: "tt0816692",
     Title: "Interstellar",
     Year: "2014",
-    Poster: "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SY679_.jpg",
+    Poster: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg",
   },
   {
     imdbID: "tt2713180",
